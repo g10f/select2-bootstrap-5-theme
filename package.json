@@ -1,7 +1,7 @@
 {
   "name": "select2-bootstrap-5-theme",
   "description": "Select2 v4 theme for Bootstrap 5",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "license": "MIT",
   "author": "Andrew Palfrey <apalfrey@apalfrey.me>",
   "repository": {
@@ -48,7 +48,7 @@
     "docs:serve": "cd docs && bundle exec jekyll serve --config _config_dev.yml"
   },
   "dependencies": {
-    "bootstrap": "^5.1.3"
+    "bootstrap": "^5.3.1"
   },
   "devDependencies": {
     "@ronilaukkarinen/gulp-stylelint": "^14.0.5",
